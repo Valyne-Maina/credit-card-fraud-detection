@@ -100,15 +100,3 @@ joblib
 - Experiment with deep learning models  
 - Deploy the best model as a web application
 
----
-
-## 👩‍💻 Author
-
-**Valyne Maina**  
-_Data Science & Analytics Student | Virtual Assistant_
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the **MIT License**.
