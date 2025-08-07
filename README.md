@@ -1,13 +1,13 @@
 
-# 🛡️ Credit Card Fraud Detection using Machine Learning
+ Credit Card Fraud Detection using Machine Learning
 
-## 📌 Objective
+  Objective
 This project aims to detect fraudulent credit card transactions using machine learning techniques. Given the rarity and hidden nature of fraud in large datasets, the project applies both **supervised** and **unsupervised** learning models to improve detection accuracy and reduce false positives.
 
-## 🧩 Problem Statement
+ Problem Statement
 Credit card fraud detection is a critical issue for banks and financial institutions. The dataset is **highly imbalanced**, with very few fraudulent cases hidden within massive normal transaction data. Therefore, this is both a **classification** and **anomaly detection** challenge.
 
-## 📊 Dataset Overview
+ Dataset Overview
 The dataset includes:
 - Features: `Time`, `V1` to `V28`, `Amount`
 - Label: `Class` (0 = Legitimate, 1 = Fraud)
@@ -20,13 +20,13 @@ Time      V1      V2   ...  V28  Amount  Class
 1.0  -1.35  -1.34  ... -0.05  378.66   0
 ```
 
-## 🛠️ Methods Used
+ Methods Used
 - **Data Preprocessing**: Scaling, handling imbalance
 - **Unsupervised Learning**: Isolation Forest for anomaly detection
 - **Supervised Learning**: Random Forest Classifier for fraud classification
 - **Evaluation Metrics**: Confusion matrix, precision, recall, F1-score
 
-## 🚀 How to Run
+ How to Run
 
 1. Clone the repo or download the notebook:  
 ```bash
@@ -43,19 +43,19 @@ pip install -r requirements.txt
 jupyter notebook creditcardFD.ipynb
 ```
 
-## 📈 Model Performance
+ Model Performance
 The project evaluates both models based on:
 - Precision
 - Recall (very important for fraud)
 - F1-score
 - Confusion matrix visualization
 
-## 📁 Files Included
+ Files Included
 - `creditcardFD.ipynb`: Main notebook
 - `creditcard.csv`: Input dataset (not included due to size/privacy)
 - `README.md`: Project documentation
 
-## 📬 Contact
+ Contact
 For questions, reach out via:
 - 📧 your.email@example.com
 - 🌐 [Your LinkedIn/GitHub profile]
