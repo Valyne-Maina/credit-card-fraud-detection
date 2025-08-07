@@ -54,8 +54,3 @@ The project evaluates both models based on:
 - `creditcardFD.ipynb`: Main notebook
 - `creditcard.csv`: Input dataset (not included due to size/privacy)
 - `README.md`: Project documentation
-
- Contact
-For questions, reach out via:
-- 📧 your.email@example.com
-- 🌐 [Your LinkedIn/GitHub profile]
